@@ -1,0 +1,10 @@
+{
+  "name": "hmm ... example app",
+  "version": "0.0.1",
+  "dependencies": {
+    "jquery": null,
+    "backbone-amd": null,
+    "underscore-amd": null,
+    "requirejs": null
+  }
+}
